@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyunProgrammer
-- 👀 I’m interested in Computer Vision <3
-- 🌱 I’m currently learning Problem Solving :'(
-- 💞️ I’m looking to collaborate on app making <3
+- 👀 I’m interested in Computer Vision 
+- 🌱 I’m currently learning Problem Solving
+- 💞️ I’m looking to collaborate on app making
 - 📫 How to reach me : annieho@naver.com
 
 <!---
